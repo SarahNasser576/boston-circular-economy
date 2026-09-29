@@ -48,7 +48,7 @@ You may also find issues in the codebase adjacent to the work area. You can incl
 
 If you find that you are unable to continue a ticket, please post in Slack, and take your head off of the ticket. If we haven't heard from you in 2 weeks, we will assume you left the project and we will reassign the work.
 
-#### Reviewing Code
+#### Reviewing code
 
 The only way to get code merged is to get code reviewed. This is a fairly safe and non-committal way to contribute to this project. By reviewing code, not only do you increase confidence in our codebase, but you also develop a better understanding of the codebase yourself!
 
@@ -89,6 +89,6 @@ Document software decisions in implementation details, code-discussion summaries
 
 ## Prototyping
 
-### Client-side Prototyping
+### Client-Side Prototyping
 
 Use `/dev/` for prototyping and experimentation in the client app. Pages under `client/src/pages/dev/` are accessible at `/dev/` in development and listed on the dev index. Prototypes don't need to meet production standards; use them to explore ideas before building the real thing. When a prototype is ready to graduate, move it out of `client/src/pages/dev/` into the appropriate location.
