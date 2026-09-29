@@ -40,7 +40,7 @@ You can propose work either by posting in [Slack](https://inviter.co/cfb-slack) 
 
 #### Working on predefined work
 
-Predefined work will exist as tickets with a defined scope of work. You will be able to assign tickets to yourself through a project management tool, which we are currently creating. You can ask for clarifying information, make suggestions, or propose alternatives as you see fit. You can do this either in Slack, the ticket itself, or during a hack night.
+Predefined work will exist as tickets with a defined scope of work. You can assign tickets to yourself through our [project management tool](https://github.com/orgs/codeforboston/projects/21). You can also ask for clarifying information, make suggestions, or propose alternatives as you see fit. You can do this either in Slack, the ticket itself, or during a hack night.
 
 You may, in the process of working on predefined work, discover it is more complex than originally understood. You are encouraged to break up the work into smaller parts. We prefer a stream of frequent, small PRs to waiting months for a giant PR.
 
